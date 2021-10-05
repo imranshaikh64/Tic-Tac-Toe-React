@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/imranshaikh64/Tic-Tac-Toe-React/static/css/main.d3383cdf.chunk.css",
+    "main.js": "/imranshaikh64/Tic-Tac-Toe-React/static/js/main.e06ea058.chunk.js",
+    "main.js.map": "/imranshaikh64/Tic-Tac-Toe-React/static/js/main.e06ea058.chunk.js.map",
+    "runtime-main.js": "/imranshaikh64/Tic-Tac-Toe-React/static/js/runtime-main.8b0e747a.js",
+    "runtime-main.js.map": "/imranshaikh64/Tic-Tac-Toe-React/static/js/runtime-main.8b0e747a.js.map",
+    "static/js/2.4d69ef2b.chunk.js": "/imranshaikh64/Tic-Tac-Toe-React/static/js/2.4d69ef2b.chunk.js",
+    "static/js/2.4d69ef2b.chunk.js.map": "/imranshaikh64/Tic-Tac-Toe-React/static/js/2.4d69ef2b.chunk.js.map",
+    "index.html": "/imranshaikh64/Tic-Tac-Toe-React/index.html",
+    "static/css/main.d3383cdf.chunk.css.map": "/imranshaikh64/Tic-Tac-Toe-React/static/css/main.d3383cdf.chunk.css.map",
+    "static/js/2.4d69ef2b.chunk.js.LICENSE.txt": "/imranshaikh64/Tic-Tac-Toe-React/static/js/2.4d69ef2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b0e747a.js",
+    "static/js/2.4d69ef2b.chunk.js",
+    "static/css/main.d3383cdf.chunk.css",
+    "static/js/main.e06ea058.chunk.js"
+  ]
+}
