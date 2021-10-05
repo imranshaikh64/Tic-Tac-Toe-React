@@ -1,6 +1,7 @@
 {
-  "homepage": "https://github.com/imranshaikh64/Tic-Tac-Toe-React",
+  
   "name": "tic-tac-toe-react",
+  "homepage": "https://github.com/imranshaikh64/Tic-Tac-Toe-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -23,7 +23,7 @@ function App() {
         let winner = checkWinner();
         if (winner) {
             clearGame();
-            alert(`Congratulations !!! ${winner} won the Game !`)
+            alert(`Congrats !!! ${winner} won the Game !`)
         }
     }, [gameState])
 
